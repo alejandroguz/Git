@@ -9,6 +9,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var cow4: UIButton!
+    @IBOutlet weak var cow3: UIButton!
+    @IBOutlet weak var cow2: UIButton!
+    @IBOutlet weak var cow1: UIButton!
     @IBOutlet weak var nameLabel: UILabel!
 
     override func viewDidLoad() {
